@@ -1,0 +1,25 @@
+{
+  "name": "programadores-para-la-paz--semana5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luzmerybellido15-arch/programadores-para-la-paz--semana5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/luzmerybellido15-arch/programadores-para-la-paz--semana5/issues"
+  },
+  "homepage": "https://github.com/luzmerybellido15-arch/programadores-para-la-paz--semana5#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
